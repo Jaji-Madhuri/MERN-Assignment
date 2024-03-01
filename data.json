@@ -1,0 +1,31 @@
+[
+    {
+        "sno": "1",
+        "name": "Virat Kohli",
+        "age": 35,
+        "country": "India",
+        "jno": 18
+    },
+    {
+        "sno": "2",
+        "name": "Mitchell Starc",
+        "age": 34,
+        "country": "Australia",
+        "jno": 56
+    },
+    {
+        "sno": "3",
+        "name": "AB Devilliers",
+        "age": 40,
+        "country": "South Africa",
+        "jno": 17
+    },
+    {
+        "sno": "4",
+        "name": "Ben Stokes",
+        "age": 32,
+        "country": "England",
+        "jno": 55
+    }
+    
+]
